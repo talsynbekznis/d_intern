@@ -32,7 +32,7 @@
 
 ##  Видео демонстрация
 Смотрите короткое видео работы приложения:  
-[ Demo Video]([./Warehouse_Inventory_Google_Chrome_2025_10_18_18_03_17_V1](https://drive.google.com/file/d/1OgvJhwvoaB8LrGUf8pv22pQmdwlQ2A3c/view?usp=vids_web))
+[ Demo Video](https://drive.google.com/file/d/1OgvJhwvoaB8LrGUf8pv22pQmdwlQ2A3c/view?usp=sharing)
 
 ---
 
